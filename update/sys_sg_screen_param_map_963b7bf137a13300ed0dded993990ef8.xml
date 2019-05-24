@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
+        <item_parameter display_value="Start date">b1a9b7f137a13300ed0dded993990e4c</item_parameter>
+        <screen display_value="By Request Type">4e98b7b137a13300ed0dded993990ece</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-22 09:08:27</sys_created_on>
+        <sys_id>963b7bf137a13300ed0dded993990ef8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b1a9b7f137a13300ed0dded993990e4c</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_963b7bf137a13300ed0dded993990ef8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-22 09:08:27</sys_updated_on>
+        <ui_parameter display_value="Start date">c51b773537a13300ed0dded993990ee1</ui_parameter>
+    </sys_sg_screen_param_map>
+</record_update>
